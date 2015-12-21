@@ -1,2 +1,3 @@
 # hello-world
-Test repository for dgardnerwriter
+-------------
+I am learning how to use GitHub for prospective employers.
